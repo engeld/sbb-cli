@@ -7,4 +7,6 @@ Gem::Specification.new do |s|
   s.email       = 'engel.dana.mail@gmail.com'
   s.files       = ["lib/sbb_cli.rb"]
   s.homepage    = ''
+
+  s.executables << 'sbb_cli'
 end
